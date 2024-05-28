@@ -1,4 +1,4 @@
-import discord
+discord
 requests
 datetime
 asyncio
